@@ -1,0 +1,9 @@
+{
+  "name": "Jesus Te Ama",
+  "short_name": "Jesus Te Ama",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#fbfaf7",
+  "description": "Uma ferramenta gratuita de evangelismo digital."
+}
